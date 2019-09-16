@@ -1,6 +1,6 @@
 # Credit
 
-**Sprites by: [KayoticCarnige](https://github.com/kayos156)
+**Sprites by: [KayoticCarnige](https://github.com/kayos156)**
 
 **Some attacks by: [estebanfer](https://www.reddit.com/user/estebanfer)**
 
